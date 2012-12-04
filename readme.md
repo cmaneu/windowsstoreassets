@@ -1,5 +1,7 @@
 # Windows Store Apps design assets template
 
+by Christopher Maneu - [@cmaneu](http://twitter.com/cmaneu)
+
 ## Introduction
 
 This Adobe Illustrator file helps you to create all the necessary assets for Windows Store apps.
@@ -21,3 +23,10 @@ This Adobe Illustrator file helps you to create all the necessary assets for Win
 - Badge logo
 - Splash screen 
 - Windows Store promotional images
+
+# Next steps
+
+**You can use the issues tab to suggest ideas**
+
+- Adding help on a specific layer, 
+- Create Windows Phone version
