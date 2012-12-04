@@ -6,6 +6,8 @@ by Christopher Maneu - [@cmaneu](http://twitter.com/cmaneu)
 
 This Adobe Illustrator file helps you to create all the necessary assets for Windows Store apps.
 
+> **Warning:** Only CS 6 version can generate appropriate file names.
+
 ![](http://github.com/cmaneu/windowsstoreassets/raw/master/img/illustratorpreview.png) 
 
 ## How to use it
@@ -14,6 +16,7 @@ This Adobe Illustrator file helps you to create all the necessary assets for Win
 2. Use the Export option, 
 3. Choose PNG file type, and **check "Use Artboard"**
 4. Use it in Visual Studio / Store Dashboard
+
 
 
 
