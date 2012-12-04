@@ -6,7 +6,7 @@ by Christopher Maneu - [@cmaneu](http://twitter.com/cmaneu)
 
 This Adobe Illustrator file helps you to create all the necessary assets for Windows Store apps.
 
-![](./windowsstoreassets/img/illustratorpreview.png) 
+![](http://github.com/cmaneu/windowsstoreassets/raw/master/img/illustratorpreview.png) 
 
 ## How to use it
 
